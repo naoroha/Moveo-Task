@@ -6,4 +6,5 @@ and run the app, the app should be on port 5000
 here is an example of the URL:
 http://127.0.0.1:5000/group?groups=5
 
+in the commit you will find 'method1.json','method2.json','method3.json', those are the outputs of each method
 have fun!
